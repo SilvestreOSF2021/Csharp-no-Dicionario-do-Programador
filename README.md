@@ -47,3 +47,41 @@ A CLI do .NET está incluída no SDK do .net. Para saber como instalar o SDK do 
 
 ### Consultar [Argumentos de linha de comando Guia de Programação em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/main-and-command-args/command-line-arguments) via _Docs Microsoft_
 
+### [O que é o Just in Time](https://blog.egestor.com.br/just-in-time/) _via eGestor_
+
+O Just in Time é um sistema para administrar produções. Ele se baseia na ideia de que nenhum produto deve ser produzido, transportado ou até mesmo comprado antes do tempo certo. Em inglês esse termo significa, de maneira literal, a expressão “na hora certa”. O Just in Time pode ser aplicado em qualquer empresa e ajuda a reduzir estoques e também custos com processos. (...)
+
+### [Tipos de valores anuláveis - referência C#](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/nullable-value-types) via _Docs Microsoft_
+
+Um tipo de valor anulável T? representa todos os valores de seu tipo de valor subjacente T e um valor nulo adicional. Por exemplo, você pode atribuir qualquer um dos três valores a seguir a uma bool? variável: true , false ou null . Um tipo de valor subjacente T não pode ser um tipo de valor anulável em si. (...)
+
+#### [Exame de uma instância de um tipo de valor anulável](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/builtin-types/nullable-value-types)  via _Docs Microsoft_
+
+A partir do C# 7,0, você pode usar o is operador com um padrão de tipo para examinar uma instância de um tipo de valor anulável para null e recuperar um valor de um tipo subjacente:
+
+### [Enumerações, também conhecidas como enums](https://docs.microsoft.com/pt-br/dotnet/fsharp/language-reference/enumerations) via _Docs Microsoft_
+
+São tipos integrais em que os rótulos são atribuídos a um subconjunto dos valores. Você pode usá-los no lugar de literais para tornar o código mais legível e fácil de manter. (...)
+
+### [Delegates Guia de Programação em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/delegates/) via _Docs Microsoft_
+
+Um delegado é um tipo que representa referências aos métodos com lista de parâmetros e tipo de retorno específicos. Ao instanciar um delegado, você pode associar sua instância a qualquer método com assinatura e tipo de retorno compatíveis. Você pode invocar (ou chamar) o método através da instância de delegado. Delegados são usados para passar métodos como argumentos a outros métodos. Os manipuladores de eventos nada mais são do que métodos chamados por meio de delegados. Ao criar um método personalizado, uma classe como um controle do Windows poderá chamá-lo quando um determinado evento ocorrer. (...)
+
+### [Expressões Lambda referência C#](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/lambda-expressions) via _Docs Microsoft_ 
+
+Uma expressão lambda é uma expressão de uma das duas seguintes formas:
+
+**[Expressão lambda](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/lambda-expressions#expression-lambdas)** 
+
+**[Instrução lambda](https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/lambda-expressions#statement-lambdas)**
+
+Use o **0perador de declaração lambda** => para separar a lista de parâmetros de lambda do corpo. Para criar uma expressão lambda, especifique os parâmetros de entrada (se houver) no lado esquerdo do operador lambda e uma expressão ou um bloco de instrução do outro lado. (...)
+
+## Tipagem Forte [O que é estilo de tipagem?](https://pt.stackoverflow.com/questions/190463/o-que-%C3%A9-estilo-de-tipagem) _via Stackoverflow_
+
+**C# usa tipagem estática,** mas opcionalmente pode usar dinâmica com dynamic. Isso foi abordado em [Por que os outros tipos de variáveis não são substituídos por dynamic em C#?.](https://pt.stackoverflow.com/questions/161729/por-que-os-outros-tipos-de-vari%c3%a1veis-n%c3%a3o-s%c3%a3o-substitu%c3%addos-por-dynamic-em-c). Já foi respondido em profundidade em [Qual a diferença entre uma linguagem de programação estática e dinâmica?](https://pt.stackoverflow.com/questions/21508/qual-a-diferen%c3%a7a-entre-uma-linguagem-de-programa%c3%a7%c3%a3o-est%c3%a1tica-e-din%c3%a2mica) (...)
+
+
+
+##
+
