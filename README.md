@@ -1,7 +1,3 @@
-
-![
-
-
 # C# no Dicionário do Programador 
 
 Chegou a vez de falarmos da poderosa linguagem C#, ela está aí mais forte que nunca passando como um rolo compressor e mostrando que é forte em todas as plataformas e pode ser utilizada com sucesso nos mais diversos tipos de projetos. 
@@ -32,5 +28,7 @@ As linguagens multiparadigma, como seu próprio nome já diz, suportam vários p
 
 Os scripts em Unity são escritos em C# (pronunciada C Sharp), uma linguagem de programação rica e de uso geral que é fácil de aprender. Aqui está a nossa própria introdução direta aos scripts em C# em Unity, incluindo uma explicação da sintaxe básica da linguagem: variáveis, funções e classes.
 
-Aqui está um script com um código de exemplo (baseado noTutorial- Programação Unity para principiantes):
+Aqui está um script com um código de exemplo (baseado noTutorial- Programação Unity para principiantes): 
+
+
 
