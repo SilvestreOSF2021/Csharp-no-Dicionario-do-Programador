@@ -101,4 +101,5 @@ Quem usa .NET no Mercado Brasileiro via Plataforma #DIO
 
 ### Hello World
 
+![Hello World C#](https://user-images.githubusercontent.com/76437195/103467876-e079ab00-4d29-11eb-803a-cd5d61dcfa08.jpg)
 
