@@ -77,11 +77,17 @@ Uma expressão lambda é uma expressão de uma das duas seguintes formas:
 
 Use o **0perador de declaração lambda** => para separar a lista de parâmetros de lambda do corpo. Para criar uma expressão lambda, especifique os parâmetros de entrada (se houver) no lado esquerdo do operador lambda e uma expressão ou um bloco de instrução do outro lado. (...)
 
-## Tipagem Forte [O que é estilo de tipagem?](https://pt.stackoverflow.com/questions/190463/o-que-%C3%A9-estilo-de-tipagem) _via Stackoverflow_
+### Tipagem Forte [O que é estilo de tipagem?](https://pt.stackoverflow.com/questions/190463/o-que-%C3%A9-estilo-de-tipagem) _via Stackoverflow_
 
 **C# usa tipagem estática,** mas opcionalmente pode usar dinâmica com dynamic. Isso foi abordado em [Por que os outros tipos de variáveis não são substituídos por dynamic em C#?.](https://pt.stackoverflow.com/questions/161729/por-que-os-outros-tipos-de-vari%c3%a1veis-n%c3%a3o-s%c3%a3o-substitu%c3%addos-por-dynamic-em-c). Já foi respondido em profundidade em [Qual a diferença entre uma linguagem de programação estática e dinâmica?](https://pt.stackoverflow.com/questions/21508/qual-a-diferen%c3%a7a-entre-uma-linguagem-de-programa%c3%a7%c3%a3o-est%c3%a1tica-e-din%c3%a2mica) (...)
 
 ![Tabela Valores Csharp](https://user-images.githubusercontent.com/76437195/103467086-b3c19580-4d21-11eb-9fe3-47d194df086a.jpg)
 
-##
+### [Microsoft Visual Studio](https://pt.wikipedia.org/wiki/Microsoft_Visual_Studio) via Wikipédia
+
+É um ambiente de desenvolvimento integrado (IDE) da Microsoft para desenvolvimento de software especialmente dedicado ao .NET Framework e às linguagens Visual Basic (VB), C, C++, C# (C Sharp) e F# (F Sharp). Também é um produto de desenvolvimento na área web, usando a plataforma do ASP.NET, como websites, aplicativos web, serviços web e aplicativos móveis. (...)
+
+### [Conheça as ferramentas do .NET e como Usar o Virtual Studio explorando estes tutoriais](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/) via _Docs Microsoft_ 
+
+Siga os **Tutoriais para aprender o .NET** para criar aplicativos e bibliotecas em Mac, Linux e Windows.
 
