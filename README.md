@@ -87,12 +87,18 @@ Use o **0perador de declaração lambda** => para separar a lista de parâmetros
 
 É um ambiente de desenvolvimento integrado (IDE) da Microsoft para desenvolvimento de software especialmente dedicado ao .NET Framework e às linguagens Visual Basic (VB), C, C++, C# (C Sharp) e F# (F Sharp). Também é um produto de desenvolvimento na área web, usando a plataforma do ASP.NET, como websites, aplicativos web, serviços web e aplicativos móveis. (...)
 
-### [Conheça as ferramentas do .NET e como Usar o Virtual Studio explorando estes tutoriais](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/) via _Docs Microsoft_ 
+### [Conheça as ferramentas do .NET e como Usar o Virtual Studio explorando estes tutoriais](https://docs.microsoft.com/pt-br/dotnet/core/tutorials/)
 
 Siga os **Tutoriais para aprender o .NET** para criar aplicativos e bibliotecas em Mac, Linux e Windows.
 
 Quem usa .NET no Mercado Brasileiro via Plataforma #DIO
 
 ![Quem usa dotNET no Mercado Brasileiro](https://user-images.githubusercontent.com/76437195/103467632-6c3e0800-4d27-11eb-8173-2c9d7bb301c2.jpg)
+
+### [Introdução ao .NET Framework](https://docs.microsoft.com/pt-br/dotnet/framework/get-started/) via _Docs Microsoft_ 
+
+**.NET Framework** é um ambiente de execução de tempo de execução que gerencia os aplicativos direcionados .NET Framework. Ele consiste no Common Language Runtime, que fornece gerenciamento de memória e outros serviços do sistema, além de em uma biblioteca de classes extensa, o que permite que programadores usem o código robusto e confiável para todas as áreas principais do desenvolvimento de aplicativos.
+
+### Hello World
 
 
