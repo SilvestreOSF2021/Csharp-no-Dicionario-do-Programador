@@ -81,7 +81,7 @@ Use o **0perador de declaração lambda** => para separar a lista de parâmetros
 
 **C# usa tipagem estática,** mas opcionalmente pode usar dinâmica com dynamic. Isso foi abordado em [Por que os outros tipos de variáveis não são substituídos por dynamic em C#?.](https://pt.stackoverflow.com/questions/161729/por-que-os-outros-tipos-de-vari%c3%a1veis-n%c3%a3o-s%c3%a3o-substitu%c3%addos-por-dynamic-em-c). Já foi respondido em profundidade em [Qual a diferença entre uma linguagem de programação estática e dinâmica?](https://pt.stackoverflow.com/questions/21508/qual-a-diferen%c3%a7a-entre-uma-linguagem-de-programa%c3%a7%c3%a3o-est%c3%a1tica-e-din%c3%a2mica) (...)
 
-
+![Tabela Valores Csharp](https://user-images.githubusercontent.com/76437195/103467086-b3c19580-4d21-11eb-9fe3-47d194df086a.jpg)
 
 ##
 
