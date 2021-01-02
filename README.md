@@ -30,5 +30,20 @@ Os scripts em Unity são escritos em C# (pronunciada C Sharp), uma linguagem de 
 
 Aqui está um script com um código de exemplo (baseado noTutorial- Programação Unity para principiantes): 
 
+![UNITYengine Cod](https://user-images.githubusercontent.com/76437195/103465282-70aaf680-4d10-11eb-805a-e977fdd68605.jpg)
 
+### [Visual J++ (pronunciado jota mais mais em português e jay plus plus em inglês)](https://pt.wikipedia.org/wiki/Visual_J%2B%2B) _via Wikipédia_
+
+Foi a implementação específica da Microsoft para o Java. Criado para o Microsoft Windows, os programas criados nessa linguagem só podiam rodar na plataforma específica da Microsoft (Microsoft Java Virtual Machine), que foi uma tentativa de se criar uma plataforma mais rápida. Sintaxe, palavras-chave e as convenções da linguagem são idênticos ao Java. (...)
+
+### [Visão geral do CLR (Common Language Runtime)](https://docs.microsoft.com/pt-br/dotnet/standard/clr) via _Docs Microsoft_
+
+O .NET fornece um ambiente de tempo de execução, chamado de Common Language Runtime, que executa o código e fornece serviços que facilitam o processo de desenvolvimento. Compiladores e ferramentas expõem as funcionalidades do Common Language Runtime e permitem que você grave um código que se beneficia desse ambiente de execução gerenciado. O código que você desenvolve com um compilador de linguagem que tem como alvo o tempo de execução é chamado de código gerenciado. O código gerenciado beneficia-se de recursos como integração entre linguagens, tratamento de exceção entre linguagens, segurança aprimorada, controle de versão e implantação, um modelo simplificado para interação de componente e serviços de depuração e criação de perfil. (...) 
+
+### [Visão geral da CLI do .NET](https://docs.microsoft.com/pt-br/dotnet/core/tools/) via _Docs Microsoft_
+
+A CLI (interface de linha de comando) do .NET é uma ferramentas de plataforma cruzada para o desenvolvimento, a criação, a execução e a publicação de aplicativos .NET.
+A CLI do .NET está incluída no SDK do .net. Para saber como instalar o SDK do .NET, consulte instalar o .NET Core. (...)
+
+### Consultar [Argumentos de linha de comando Guia de Programação em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/main-and-command-args/command-line-arguments) via _Docs Microsoft_
 
