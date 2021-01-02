@@ -91,3 +91,8 @@ Use o **0perador de declaração lambda** => para separar a lista de parâmetros
 
 Siga os **Tutoriais para aprender o .NET** para criar aplicativos e bibliotecas em Mac, Linux e Windows.
 
+Quem usa .NET no Mercado Brasileiro via Plataforma #DIO
+
+![Quem usa dotNET no Mercado Brasileiro](https://user-images.githubusercontent.com/76437195/103467632-6c3e0800-4d27-11eb-8173-2c9d7bb301c2.jpg)
+
+
